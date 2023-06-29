@@ -6,3 +6,10 @@
 
 ### Markdown with an example of an image and how it looks
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### Example of JavaScript in this file and how it looks
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
